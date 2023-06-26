@@ -1,6 +1,6 @@
 [package]
 name = "rustfmt-wrapper"
-version = "0.2.1-alpha.1"
+version = "0.2.1-alpha.2"
 authors = ["Adam H. Leventhal <ahl@oxide.computer>"]
 edition = "2021"
 license = "Apache-2.0"
